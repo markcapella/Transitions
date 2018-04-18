@@ -1,0 +1,8 @@
+<resources>
+
+	<color name="white">#FFFFFFFF</color>
+	<color name="blue">#FF80C0FF</color>
+	<color name="yellow">#FFFFFF00</color>
+	<color name="green">#FF00FF00</color>
+
+</resources>

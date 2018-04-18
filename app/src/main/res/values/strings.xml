@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Transitions</string>
+
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About &#8230;</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="helpalert_title">Help</string>
+    <string name="helpalert_message1">This is the game of Transitions. In it you try to transition positions of purple
+    and green colored balls.\n\n
+    Tapping a purple colored ball will either move it right to an empty space, or jump it right over a green ball to
+    an empty space.\n\nTapping a green colored ball will either move it left to an empty space, or jump it left over a
+    purple ball to an empty space.</string>
+    <string name="helpalert_message2">Play continues until either you complete the transitions, or you run out of
+    valid moves.\n\nThat\'s as easy as it gets !</string>
+
+    <string name="helpalert_button_PLAY">Play</string>
+    <string name="helpalert_button_MORE">More</string>
+
+    <string name="aboutalert_title">About</string>
+    <string name="aboutalert_message">Transitions is a simple game, based on code ported from an early
+    terminal-style computer, the DEC-PDP-8, written in BASIC and ported to the Apple II.\n\nby:
+    Mark Capella\nmarkcapella@twcny.rr.com\nirc nick:capella</string>
+    <string name="aboutalert_button_OK">OK</string>
+
+    <string name="gameIsLostAlert_title">Game Over</string>
+    <string name="gameIsLostAlert_message">Oh no! There\'s no place left to move, so you\'ve lost this one.\n\nWould
+    you like to play again?</string>
+    <string name="gameIsLostAlert_button_NO">NO</string>
+    <string name="gameIsLostAlert_button_YES">YES</string>
+
+    <string name="gameIsWonAlert_title">Game Over</string>
+    <string name="gameIsWonAlert_message">Aren\'t you the smart one? You\'ve won this game (and that\'s not an
+    easy thing to do!).\n\nWould you like to play again?</string>
+    <string name="gameIsWonAlert_button_NO">NO</string>
+    <string name="gameIsWonAlert_button_YES">YES</string>
+
+</resources>

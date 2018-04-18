@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_help"
+        android:icon="@drawable/info"
+        android:title="@string/menu_help" />
+
+    <item android:id="@+id/menu_about"
+        android:icon="@drawable/info"
+        android:title="@string/menu_about" />
+
+    <item android:id="@+id/menu_exit"
+        android:icon="@drawable/close"
+        android:title="@string/menu_exit" />
+</menu>
